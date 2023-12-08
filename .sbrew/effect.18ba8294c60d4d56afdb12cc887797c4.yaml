@@ -1,0 +1,76 @@
+﻿FormatVersion: 7
+Name: "Storyboard 1"
+Script: "Storyboard"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  9e84c938f81a4c668b0820d2eafe97f7:
+    Name: "Sky White"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  13aee7b053db4658a15703f2c9584835:
+    Name: "Sky"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  cbed946ff72b49519549d4b267c1c686:
+    Name: "Sky 2"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  ba19d49bcb45459b9c6f7f0059a8a889:
+    Name: "Rainbow"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  8b9faca62a90485a86b652674b3512e4:
+    Name: "Clouds"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  5724b185894845ecb385a8a8e9bbeb46:
+    Name: "Lyrics"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  afd6c89eef8644ab8d1e11393b0b65cb:
+    Name: ""
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  95c31421ec4a4b44beb843864114e647:
+    Name: "particles"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  bace373f72f949278c951b2f0d05d44d:
+    Name: "Rotating Background"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  5d8476d998e64a97b892e12d4eaf0a0e:
+    Name: "Rain"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  022d5c78824049f08e80676c29a7627e:
+    Name: "Destruction"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  f7066a2e4e37471da4adc8e5c33116ad:
+    Name: "Pulse"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  f33c9607d7d14ee581e34019fce37547:
+    Name: "Vignette"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
